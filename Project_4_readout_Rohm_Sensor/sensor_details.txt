@@ -1,0 +1,15 @@
+1. BDE0600G Temperature Sensor
+2. BM1383GLV Pressure Sensor
+3. BU52014HFV Hall Effect Switch Sensor
+4. KX122 Accelerometer
+5. KMX62 Accelerometer and Magnetometer Combo Sensor
+6. KXG03 Gyroscope and Accelerometer Combo Sensor
+7. ML8511 UV Sensor
+8. RPR-0521 Combo Ambient Light Sensor and Proximity Sensor
+9. BH1745 RGB Color Sensor
+10. H4 ¨C Standard Arduino Power Header
+a. On the shield board, this header is only connected to pins 4, 7 and 8. See section below
+for an explanation of the shield connector¡¯s pin out
+11. H5 ¨C Standard Arduino AnalogIn Header
+a. See section below for an explanation of the shield connector¡¯s pinout
+12. H7 ¨C Standard Arduino Digital Header 1
